@@ -1,6 +1,6 @@
 # Pneumonia Teste
 
-<p>Trabalho da faculdade - UnB<p>
-Materia: Topicos especiais em engenharia de softwara (deep leaning);
-Topico: CNN para indentificar pneumonia.
+<p>Trabalho de faculdade - UnB<p>
+<p>Materia: Topicos especiais em engenharia de softwara (deep leaning);<p>
+<p>Tema: CNN para indentificar pneumonia.<p>
 
